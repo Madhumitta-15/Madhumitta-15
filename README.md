@@ -2,7 +2,7 @@
 
 ![](https://github.com/Madhumitta-15/Madhumitta-15/blob/1ece475a39634b5300e1c87d94f4d8a2f1d8d616/About%20Me.gif)
 # 💫 About Me:
-🔭 I’m currently working on Full Stack Development <br>👯 I’m looking to collaborate on Front End Development<br>🌱 I’m currently learning Back End with Python 🐍
+🔭 I’m currently working on **Full Stack Development** <br>👯 I’m looking to collaborate on **Front End Development**<br>🌱 I’m currently learning **Back End with Python** 🐍
 
 
 ## 🌐 Socials:
